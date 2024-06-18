@@ -4,7 +4,7 @@
 Sebuah perusahaan periklanan mendapatkan klien yang ingin memprediksi cost Advertising yang perlu mereka keluarkan berdasarkan target penjualan.
 
 # Deskripsi
-Proyek ini  bertujuan untuk melakukan prediksi biaya iklan / advertising berdasarkan target penjualan menggunakan simple regression. Data yang digunakan diambil dari sumber [ini](https://www.econometrics.com/intro/sales.htm).
+Proyek ini  bertujuan untuk melakukan prediksi biaya iklan / advertising berdasarkan target penjualan menggunakan simple regression. Data yang digunakan diambil dari sumber (https://www.econometrics.com/intro/sales.htm).
 
 # Langkah-langkah
 1. **Persiapan Data**: Mengunduh dan membaca data menggunakan pandas. Data ini terdiri dari dua kolom:
@@ -33,8 +33,9 @@ Proyek ini  bertujuan untuk melakukan prediksi biaya iklan / advertising berdasa
 - Model regresi sederhana ini memberikan perkiraan yang cukup akurat untuk biaya advertising berdasarkan data penjualan yang diberikan. Dengan demikian, menggunakan analisis ini, perusahaan periklanan dapat membuat perkiraan biaya advertising yang diperlukan berdasarkan target penjualan mereka dengan tingkat kepercayaan yang baik.
 
 # Kode
-Seluruh kode dapat dilihat di file `Machine_Learning.ipynb`.
+Seluruh kode dapat dilihat di file `Machine_Learning.ipynb`. Berikut adalah hasilnya :
 <img width="409" alt="image" src="https://github.com/AfrohFauziah/Machine-Learning/assets/161470622/4d55904b-cc1d-433f-a0ae-fee0b4401b88">
+
 <img width="137" alt="image" src="https://github.com/AfrohFauziah/Machine-Learning/assets/161470622/b858e736-282d-4395-bbba-03b300cf68b0">
 
 # Visualisasi
