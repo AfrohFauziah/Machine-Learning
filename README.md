@@ -39,4 +39,5 @@ Seluruh kode dapat dilihat di file `Machine_Learning.ipynb`.
 
 # Visualisasi
 Menampilkan scatter plot data asli dan garis regresi linear untuk memvisualisasikan hubungan antara sales dan advertising.
+
 <img width="340" alt="image" src="https://github.com/AfrohFauziah/Machine-Learning/assets/161470622/01c177e4-4a3f-4cbb-b547-9a3311a0d0f6">
